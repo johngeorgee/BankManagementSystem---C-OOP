@@ -3,6 +3,66 @@
   "WorkspaceRootPath": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|d:\\john\\courses\\back-end\\backend projects\\learning c#\\tasks\\bankmanagementsystem\\bankmanagementsystem\\models\\accounts\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|solutionrelative:bankmanagementsystem\\models\\accounts\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|d:\\john\\courses\\back-end\\backend projects\\learning c#\\tasks\\bankmanagementsystem\\bankmanagementsystem\\exception\\bankexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|solutionrelative:bankmanagementsystem\\exception\\bankexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|d:\\john\\courses\\back-end\\backend projects\\learning c#\\tasks\\bankmanagementsystem\\bankmanagementsystem\\utilities\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|solutionrelative:bankmanagementsystem\\utilities\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|d:\\john\\courses\\back-end\\backend projects\\learning c#\\tasks\\bankmanagementsystem\\bankmanagementsystem\\utilities\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|solutionrelative:bankmanagementsystem\\utilities\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|d:\\john\\courses\\back-end\\backend projects\\learning c#\\tasks\\bankmanagementsystem\\bankmanagementsystem\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|solutionrelative:bankmanagementsystem\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|d:\\john\\courses\\back-end\\backend projects\\learning c#\\tasks\\bankmanagementsystem\\bankmanagementsystem\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|solutionrelative:bankmanagementsystem\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|d:\\john\\courses\\back-end\\backend projects\\learning c#\\tasks\\bankmanagementsystem\\bankmanagementsystem\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|solutionrelative:bankmanagementsystem\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|d:\\john\\courses\\back-end\\backend projects\\learning c#\\tasks\\bankmanagementsystem\\bankmanagementsystem\\services\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|solutionrelative:bankmanagementsystem\\services\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|d:\\john\\courses\\back-end\\backend projects\\learning c#\\tasks\\bankmanagementsystem\\bankmanagementsystem\\interfaces\\iauthenticatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|solutionrelative:bankmanagementsystem\\interfaces\\iauthenticatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|d:\\john\\courses\\back-end\\backend projects\\learning c#\\tasks\\bankmanagementsystem\\bankmanagementsystem\\interfaces\\itransactionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|solutionrelative:bankmanagementsystem\\interfaces\\itransactionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|d:\\john\\courses\\back-end\\backend projects\\learning c#\\tasks\\bankmanagementsystem\\bankmanagementsystem\\interfaces\\iaccountoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|solutionrelative:bankmanagementsystem\\interfaces\\iaccountoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|d:\\john\\courses\\back-end\\backend projects\\learning c#\\tasks\\bankmanagementsystem\\bankmanagementsystem\\models\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|solutionrelative:bankmanagementsystem\\models\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|d:\\john\\courses\\back-end\\backend projects\\learning c#\\tasks\\bankmanagementsystem\\bankmanagementsystem\\models\\transactions\\tranaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|solutionrelative:bankmanagementsystem\\models\\transactions\\tranaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|d:\\john\\courses\\back-end\\backend projects\\learning c#\\tasks\\bankmanagementsystem\\bankmanagementsystem\\models\\accounts\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|solutionrelative:bankmanagementsystem\\models\\accounts\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|d:\\john\\courses\\back-end\\backend projects\\learning c#\\tasks\\bankmanagementsystem\\bankmanagementsystem\\models\\accounts\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|solutionrelative:bankmanagementsystem\\models\\accounts\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|d:\\john\\courses\\back-end\\backend projects\\learning c#\\tasks\\bankmanagementsystem\\bankmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3316A5CF-70DC-0A51-B6F6-F168D4E8D92B}|BankManagementSystem\\BankManagementSystem.csproj|solutionrelative:bankmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,6 +87,201 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Models\\Accounts\\Account.cs",
+              "RelativeDocumentMoniker": "BankManagementSystem\\Models\\Accounts\\Account.cs",
+              "ToolTip": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Models\\Accounts\\Account.cs",
+              "RelativeToolTip": "BankManagementSystem\\Models\\Accounts\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:34:30.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankException.cs",
+              "DocumentMoniker": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Exception\\BankException.cs",
+              "RelativeDocumentMoniker": "BankManagementSystem\\Exception\\BankException.cs",
+              "ToolTip": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Exception\\BankException.cs",
+              "RelativeToolTip": "BankManagementSystem\\Exception\\BankException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:39:19.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Utilities\\SessionManager.cs",
+              "RelativeDocumentMoniker": "BankManagementSystem\\Utilities\\SessionManager.cs",
+              "ToolTip": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Utilities\\SessionManager.cs",
+              "RelativeToolTip": "BankManagementSystem\\Utilities\\SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:39:04.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Utilities\\Validator.cs",
+              "RelativeDocumentMoniker": "BankManagementSystem\\Utilities\\Validator.cs",
+              "ToolTip": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Utilities\\Validator.cs",
+              "RelativeToolTip": "BankManagementSystem\\Utilities\\Validator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:38:49.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileStorageService.cs",
+              "DocumentMoniker": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Services\\FileStorageService.cs",
+              "RelativeDocumentMoniker": "BankManagementSystem\\Services\\FileStorageService.cs",
+              "ToolTip": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Services\\FileStorageService.cs",
+              "RelativeToolTip": "BankManagementSystem\\Services\\FileStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:38:28.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "BankManagementSystem\\Services\\TransactionService.cs",
+              "ToolTip": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Services\\TransactionService.cs",
+              "RelativeToolTip": "BankManagementSystem\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:38:15.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "BankManagementSystem\\Services\\AuthenticationService.cs",
+              "ToolTip": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "BankManagementSystem\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:38:03.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BankService.cs",
+              "DocumentMoniker": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Services\\BankService.cs",
+              "RelativeDocumentMoniker": "BankManagementSystem\\Services\\BankService.cs",
+              "ToolTip": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Services\\BankService.cs",
+              "RelativeToolTip": "BankManagementSystem\\Services\\BankService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:37:49.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthenticatable.cs",
+              "DocumentMoniker": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Interfaces\\IAuthenticatable.cs",
+              "RelativeDocumentMoniker": "BankManagementSystem\\Interfaces\\IAuthenticatable.cs",
+              "ToolTip": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Interfaces\\IAuthenticatable.cs",
+              "RelativeToolTip": "BankManagementSystem\\Interfaces\\IAuthenticatable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:37:32.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITransactionLogger.cs",
+              "DocumentMoniker": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Interfaces\\ITransactionLogger.cs",
+              "RelativeDocumentMoniker": "BankManagementSystem\\Interfaces\\ITransactionLogger.cs",
+              "ToolTip": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Interfaces\\ITransactionLogger.cs",
+              "RelativeToolTip": "BankManagementSystem\\Interfaces\\ITransactionLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:37:18.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAccountOperations.cs",
+              "DocumentMoniker": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Interfaces\\IAccountOperations.cs",
+              "RelativeDocumentMoniker": "BankManagementSystem\\Interfaces\\IAccountOperations.cs",
+              "ToolTip": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Interfaces\\IAccountOperations.cs",
+              "RelativeToolTip": "BankManagementSystem\\Interfaces\\IAccountOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:37:02.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Models\\Users\\User.cs",
+              "RelativeDocumentMoniker": "BankManagementSystem\\Models\\Users\\User.cs",
+              "ToolTip": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Models\\Users\\User.cs",
+              "RelativeToolTip": "BankManagementSystem\\Models\\Users\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:35:56.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tranaction.cs",
+              "DocumentMoniker": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Models\\Transactions\\Tranaction.cs",
+              "RelativeDocumentMoniker": "BankManagementSystem\\Models\\Transactions\\Tranaction.cs",
+              "ToolTip": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Models\\Transactions\\Tranaction.cs",
+              "RelativeToolTip": "BankManagementSystem\\Models\\Transactions\\Tranaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:35:31.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Models\\Accounts\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "BankManagementSystem\\Models\\Accounts\\SavingAccount.cs",
+              "ToolTip": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Models\\Accounts\\SavingAccount.cs",
+              "RelativeToolTip": "BankManagementSystem\\Models\\Accounts\\SavingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:35:16.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Models\\Accounts\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "BankManagementSystem\\Models\\Accounts\\CurrentAccount.cs",
+              "ToolTip": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Models\\Accounts\\CurrentAccount.cs",
+              "RelativeToolTip": "BankManagementSystem\\Models\\Accounts\\CurrentAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:35:00.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\John\\Courses\\Back-End\\Backend Projects\\Learning C#\\Tasks\\BankManagementSystem\\BankManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "BankManagementSystem\\Program.cs",
